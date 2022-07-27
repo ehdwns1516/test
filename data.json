@@ -2,5 +2,9 @@
   {
     "id": "1",
     "content": "test"
+  },
+  {
+    "id": "2",
+    "content": "test"
   }
 ]
